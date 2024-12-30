@@ -1,2 +1,3 @@
 This file should be pull in local reposetiry
 Add some additional configrations
+found a couple value that needed to add
